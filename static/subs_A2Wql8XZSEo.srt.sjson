@@ -1,0 +1,1 @@
+{"start":[0,692,1840,4650,6975,11570,13540],"end":[692,1840,4650,6975,11570,13540,15533],"text":["","PROFESSOR: Here's a quiz--","state graphs versus search trees.","Here is a 4-state graph, tiny little graph.","The question for you is how big is its search tree if we expand the search","tree starting at the current state S?",""]}

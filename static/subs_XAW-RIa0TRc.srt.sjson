@@ -1,0 +1,1 @@
+{"start":[900,2400,5850,9059,10700],"end":[2400,5850,9059,10700,11840],"text":["Breadth-first search. How do we know?","It expands outward in every direction, and how do we know it's not uniform cost?","Yeah, it's like the expansion isn't sensitive to","the cost. It doesn't speed up when it gets","to the shallow water."]}
